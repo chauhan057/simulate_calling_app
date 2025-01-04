@@ -1,20 +1,16 @@
-<<<<<<< HEAD
-# simulate_calling_app
-=======
-# learnig_call_app
+# Video Calling App
 
-A new Flutter project.
+This is a single-screen Flutter app that demonstrates video and audio calling functionality, including incoming call simulation, call accepting, rejecting, and in-call controls.
 
-## Getting Started
+## Features:
+- Video and Audio Calling
+- Incoming Call Notification
+- Call Acceptance and Rejection
+- Camera Switching
+- Mute/Unmute functionality
 
-This project is a starting point for a Flutter application.
+## Steps to Run the App:
+1. Clone the repository or extract the ZIP file.
+2. Open the project in your preferred code editor.
+3. Run the following command to install dependencies:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
