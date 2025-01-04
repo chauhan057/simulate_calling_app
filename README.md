@@ -1,4 +1,4 @@
-# Video Calling App
+# Simulation Video Calling App
 
 This is a single-screen Flutter app that demonstrates video and audio calling functionality, including incoming call simulation, call accepting, rejecting, and in-call controls.
 
